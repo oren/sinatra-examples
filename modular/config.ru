@@ -1,0 +1,3 @@
+require './modular'
+
+run MyApp
