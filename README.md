@@ -9,8 +9,9 @@ This is the source code for a few sinatra applications that demonstrate differen
 Setup
 -----
 
-cd sinatra-examples 
-    it will try to use 1.9.3-p125@sinatra-examples
+use ruby 1.9.3-p125@sinatra-examples
+
+    cd sinatra-examples 
 
 Install bundler
 
